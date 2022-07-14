@@ -1,3 +1,5 @@
+import styled from 'styled-components';
+
 const ContactCard = ({ firstName='', lastName='', phoneNumber='', profilePic='' }) => {
     return (
         <div>
